@@ -31,6 +31,4 @@
 
 ### Metodologias ageis promovem a intereação entre as pessoas
 
-`
 Individuos e intereação entre eles são mais valorizados que papel e processos bem definidos. Conversa face-a-face é *SEMPRE* a melhor forma de comunicação.
-`
