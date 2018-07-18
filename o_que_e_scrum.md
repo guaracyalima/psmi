@@ -73,8 +73,3 @@ O focod do scrum esta *em prover um metodo que deixa clara a eficácia relativa 
 - Planejar o suficiente para executar as atividades no curto prazo
 
 
-# Beneficios do scrum
-
-> O Scrum não é um processo previsivel, ele não define o que fazer em toda circunstancia.
->
-> -- <cite>Ken Schwaber, 2004</cite>
